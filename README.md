@@ -27,4 +27,4 @@ Refer to the license in the repo.
 
 https://phadeline.github.io/Random-password-generator/
 
-![My Image](week3/challenge/password-generator/Develop/random password generator.png)
+![My Image](develop/random%20password%20generator.png)
