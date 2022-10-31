@@ -57,7 +57,7 @@ function generatePassword() {
         confirmspecial == false &&
         confirmnumber == false
       ) {
-        alert("You must choose at least one choice.");
+        alert("You did not choose a character type. You must choose at least one character type in order to generate a password.");
         return "";
       }
       let randomnumber = Math.floor(Math.random() * realPassword.length);
